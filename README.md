@@ -1,6 +1,6 @@
 # Gitsub
 
-<!-- [![Netlify Status](https://api.netlify.com/api/v1/badges/4ab7e730-7ed3-4cfd-a988-66195e79a991/deploy-status)](https://app.netlify.com/sites/drt-sortinghat/deploys) -->
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4ab7e730-7ed3-4cfd-a988-66195e79a991/deploy-status)](https://gitsub.netlify.app/)
 <!-- update the netlify badge above with your own badge that you can find at netlify under settings/general#status-badges -->
 
 Gitsub is a Github clone created from scratch.
